@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Tiantian's footsteps
+description:    "Stories about my learning path"
+url:            "https://supperac.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Tiantian Lu
+  url:          https://www.linkedin.com/in/tiantianlu
+  email:        tiantianlu91@hotmail.com
 
 # Build settings
 markdown:       kramdown
