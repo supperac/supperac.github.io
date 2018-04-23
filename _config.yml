@@ -25,4 +25,3 @@ plugins:
 permalink:      /:year-:month-:day/:title
 paginate:       5
 
-$ bundle exec jekyll serve
