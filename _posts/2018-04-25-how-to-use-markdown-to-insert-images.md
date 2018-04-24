@@ -17,7 +17,7 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
   
   
 
-**3.上传至网络相册**
+**3.上传至网络相册**<br>
 类似于第一种方式。上传图片于网络相册，复制图片地址即可。第一种方式相当于把github当做一个网络相册来作为一个载体。
 在此，如果选择上传到网络相册，那么需要注意一下有的网络相册是不支持外部链接的。在选择的时候需要留意。
 
@@ -72,8 +72,8 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mzk4NzQ0MiwxOTQ1MTg0NDYxLDE0MD
-A3OTkyMjQsMTgxMTMyNzA0LC0xMzI0Njk1NzAsLTQ4Nzk0NjEz
-MCwtMjgwODM5MTM4LDIwNzIwMzU0NCwtNjA2MTA1OTU3LC01Nz
-MxOTQ1MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzIzMDcxNjQsMTk0NTE4NDQ2MSwxND
+AwNzk5MjI0LDE4MTEzMjcwNCwtMTMyNDY5NTcwLC00ODc5NDYx
+MzAsLTI4MDgzOTEzOCwyMDcyMDM1NDQsLTYwNjEwNTk1NywtNT
+czMTk0NTAzXX0=
 -->
