@@ -10,9 +10,13 @@ d. 在markdown文本中引用图片 ![hello world] (图片链接3达不溜点巴
 
 ## 插入本地图片
 需要在基础语法的括号中插入图片的位置路径就可以，支持绝对路径和相对路径。
-li
+例如:
+![hello world] (/user/desktop/meme.jpeg)
+
+    其缺点是不灵活
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDAzMzYwMCwtNTczMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbNjIzMTk1OTIxLC01NzMxOTQ1MDNdfQ==
 -->
