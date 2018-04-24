@@ -58,10 +58,11 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 -   一键公布支持 Blogger, Dropbox，GIST，GitHub，Google Drive，SSH server，Tumblr，WordPress
 
 最实用的是stackedit右边界面带有cheat sheet, 忘记怎么用了可以立即查看。
-
 ![Markdown cheat sheet](https://github.com/supperac/ts/blob/master/screenshot-stackedit.io-2018.04.24-12-53-54.jpeg?raw=true)
+
+在结尾
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5MTI5NCwxNDAwNzk5MjI0LDE4MT
+eyJoaXN0b3J5IjpbMTUxNjI5MjYyOSwxNDAwNzk5MjI0LDE4MT
 EzMjcwNCwtMTMyNDY5NTcwLC00ODc5NDYxMzAsLTI4MDgzOTEz
 OCwyMDcyMDM1NDQsLTYwNjEwNTk1NywtNTczMTk0NTAzXX0=
 -->
