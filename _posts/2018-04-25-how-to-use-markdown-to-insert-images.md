@@ -1,6 +1,6 @@
-## Markdown 插入图片心得体会*
+# Markdown 插入图片心得体会及编辑技巧整理
 
-## Heading
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjY2OTM0OCwtNTczMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbMTgzMTExMjY4OSwtNTczMTk0NTAzXX0=
 -->
