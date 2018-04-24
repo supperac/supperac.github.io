@@ -14,11 +14,13 @@ d. 在markdown文本中引用图片 ![hello world] (图片链接3达不溜点巴
 ![hello world] (/user/desktop/meme.jpeg)
 
     其缺点是不灵活，本地图片路径更改或者丢失都会造成markdown文件读取不了图片。
-    
+  
+  
 
-# Heading
+## 插入网络图片
+类似于第一种方式。上传图片于网络照片
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDMwMjA3NywtNTczMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbLTE5MjgyMjQ5MjEsLTU3MzE5NDUwM119
 -->
