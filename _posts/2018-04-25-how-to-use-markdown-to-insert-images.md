@@ -44,8 +44,20 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 -   文档信息统计显示
 -   转换HTML到 MarkDown
 -   以GIst公布后支持分享（能够在线使用[StackEdit](http://benweet.github.io/stackedit/)阅读）
+
+支持：
+-   实时编辑、HTML预览并自己主动滚动定位到编辑处
+-   Markdown Extra 支持 Prettify/Highlight.js 的语法高亮
+-   LaTeX 数学表达式使用MathJax
+-   所见即所得的控制button
+-   可配置的布局
+-   支持多个主题
+-   A la carte extensions
+-   离线编辑
+-   Google Drive和Dropbox在线同步
+-   一键公布支持 Blogger, Dropbox，GIST，GitHub，Google Drive，SSH server，Tumblr，WordPress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3MjY3MDksMTgxMTMyNzA0LC0xMz
-I0Njk1NzAsLTQ4Nzk0NjEzMCwtMjgwODM5MTM4LDIwNzIwMzU0
-NCwtNjA2MTA1OTU3LC01NzMxOTQ1MDNdfQ==
+eyJoaXN0b3J5IjpbMTQwMDc5OTIyNCwxODExMzI3MDQsLTEzMj
+Q2OTU3MCwtNDg3OTQ2MTMwLC0yODA4MzkxMzgsMjA3MjAzNTQ0
+LC02MDYxMDU5NTcsLTU3MzE5NDUwM119
 -->
