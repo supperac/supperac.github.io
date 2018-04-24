@@ -24,8 +24,12 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
 注:
 个人倾向于第1种方法和第3种方法。虽然方法笨拙，但是相比较之下是最稳妥之计。虽然需要几个步骤但是链接不会失效而且不需要其他的一些技巧。
 
+## markdown编辑器
+
+接下来说一下markdown language 编辑器吧
+网上主流的
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk1NjUxNiwyMDcyMDM1NDQsLTYwNj
+eyJoaXN0b3J5IjpbMjA3MzEwODY0NiwyMDcyMDM1NDQsLTYwNj
 EwNTk1NywtNTczMTk0NTAzXX0=
 -->
