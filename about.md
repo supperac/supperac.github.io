@@ -9,7 +9,7 @@ This is a blog where I will post about the steps I take in learning data analyti
 It cost me almost 3 hours to establish this blog, it is not easy...<br>
 anyways, I will keep updating what I will accomplish or some notes or guides.
 
-and yeah...I need to read more english books, my enlighs writing has weakened.
+and yeah...I need to read more english books, my enlighs writing has weakened.<br>
 加油~~~
 
   |<br>
