@@ -3,7 +3,7 @@
 
  **1.将图片上传到github**<br>
 步骤如下:<br>
-a. 将markdown需要用的图片放到git仓库库中，发布到github上。
+a. 将markdown需要用的图片放到git仓库库中，发布到github上。<br>
 b. 访问github上自己存放图片的Repo。<br>
 c. 访问该图片并且点击download按钮,，在地址栏复制图片地址，或者在download按钮上直接右键“复制链接地址”。<br>
 d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点巴拉巴拉巴拉点康姆)`
