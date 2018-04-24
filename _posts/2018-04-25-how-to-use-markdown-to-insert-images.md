@@ -18,9 +18,9 @@ d. 在markdown文本中引用图片 ![hello world] (图片链接3达不溜点巴
   
 
 ## 插入网络图片
-类似于第一种方式。上传图片于网络照片
+类似于第一种方式。上传图片于网络相册，复制图片地址即可。第一种方式相当于把github当做一个网络相册来作为一个载体。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgyMjQ5MjEsLTU3MzE5NDUwM119
+eyJoaXN0b3J5IjpbMjA2NzEyODYwMSwtNTczMTk0NTAzXX0=
 -->
