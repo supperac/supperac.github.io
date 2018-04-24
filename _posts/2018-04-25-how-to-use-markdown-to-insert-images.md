@@ -39,11 +39,11 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 -   云同步 MarkDown 文档
 -   支持 Google Drive, Dropbox 和本地硬盘驱动器等备份
 -   Post MarkDown 文档到 Blogger 、Blogspot、WordPress和Tumblr
--   公布 MarkDown 文档在GitHub，GIST。Google Drive。Dropbox或不论什么SSHserver
+-   发布 MarkDown 文档到GitHub，GIST，Google Drive，Dropbox或不论什么SSHserver
 -   分享一个及时渲染的 MarkDown 文档链接
 -   文档信息统计显示
 -   转换HTML到 MarkDown
--   以GIst公布后支持分享（能够在线使用[StackEdit](http://benweet.github.io/stackedit/)阅读）
+-   以Gist公布后支持分享
 
 支持：
 -   实时编辑、HTML预览并自己主动滚动定位到编辑处
@@ -60,9 +60,9 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 最实用的是stackedit右边界面带有cheat sheet, 忘记怎么用了可以立即查看。
 ![Markdown cheat sheet](https://github.com/supperac/ts/blob/master/screenshot-stackedit.io-2018.04.24-12-53-54.jpeg?raw=true)
 
-在结尾
+gon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjI5MjYyOSwxNDAwNzk5MjI0LDE4MT
-EzMjcwNCwtMTMyNDY5NTcwLC00ODc5NDYxMzAsLTI4MDgzOTEz
-OCwyMDcyMDM1NDQsLTYwNjEwNTk1NywtNTczMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbLTY0OTg0Mjg0LDE0MDA3OTkyMjQsMTgxMT
+MyNzA0LC0xMzI0Njk1NzAsLTQ4Nzk0NjEzMCwtMjgwODM5MTM4
+LDIwNzIwMzU0NCwtNjA2MTA1OTU3LC01NzMxOTQ1MDNdfQ==
 -->
