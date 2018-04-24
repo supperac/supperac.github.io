@@ -33,9 +33,19 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 整个界面是这个样子的，很整洁干净。
 ![stackedit](https://raw.githubusercontent.com/supperac/ts/master/screenshot-stackedit.io-2018.04.24-12-42-39.jpeg)
 
-转了一圈stackedit之后发现，stackedit的强大在于
+转了一圈stackedit之后发现，stackedit的强大在于：
+-   管理多个 MarkDown 文档。可在线或离线编辑
+-   通过模板导出 MarkDown 或 HTML 格式文件
+-   云同步 MarkDown 文档
+-   支持 Google Drive, Dropbox 和本地硬盘驱动器等备份
+-   Post MarkDown 文档到 Blogger 、Blogspot、WordPress和Tumblr
+-   公布 MarkDown 文档在GitHub，GIST。Google Drive。Dropbox或不论什么SSHserver
+-   分享一个及时渲染的 MarkDown 文档链接
+-   文档信息统计显示
+-   转换HTML到 MarkDown
+-   以GIst公布后支持分享（能够在线使用[StackEdit](http://benweet.github.io/stackedit/)阅读）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDkzMTA5MSwxODExMzI3MDQsLTEzMj
-Q2OTU3MCwtNDg3OTQ2MTMwLC0yODA4MzkxMzgsMjA3MjAzNTQ0
-LC02MDYxMDU5NTcsLTU3MzE5NDUwM119
+eyJoaXN0b3J5IjpbLTEyMDI3MjY3MDksMTgxMTMyNzA0LC0xMz
+I0Njk1NzAsLTQ4Nzk0NjEzMCwtMjgwODM5MTM4LDIwNzIwMzU0
+NCwtNjA2MTA1OTU3LC01NzMxOTQ1MDNdfQ==
 -->
