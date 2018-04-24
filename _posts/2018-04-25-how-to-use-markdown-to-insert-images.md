@@ -27,13 +27,10 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
 ## markdown编辑器
 
 接下来说一下markdown language 编辑器吧
-网上主流的markdown编辑器主要有这两种
-
- - desktop 编辑器:
- - 在线编辑器: dillinger, stackedit
- 
+虽然网上主流的markdown编辑器主要有这两种, 一种是桌面编辑器，另一种是在线编辑器。在我的搜索经验看来，在线编辑器占大多数，并且功能也很强大。 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Nzk0NjEzMCwtMjgwODM5MTM4LDIwNz
-IwMzU0NCwtNjA2MTA1OTU3LC01NzMxOTQ1MDNdfQ==
+eyJoaXN0b3J5IjpbMTY3MDI3NTAyOCwtNDg3OTQ2MTMwLC0yOD
+A4MzkxMzgsMjA3MjAzNTQ0LC02MDYxMDU5NTcsLTU3MzE5NDUw
+M119
 -->
