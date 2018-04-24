@@ -1,7 +1,7 @@
 # Markdown 插入图片心得体会及编辑技巧整理
 ## Markdown 插入图片方法
 
- **1.将图片上传到github**
+ **1.将图片上传到github**<br>
 步骤如下:
 a. 将markdown需要用的图片放到git仓库库中，发布到github上。
 b. 访问github上自己存放图片的Repo。
@@ -72,8 +72,8 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5OTY0NjQsMTk0NTE4NDQ2MSwxND
-AwNzk5MjI0LDE4MTEzMjcwNCwtMTMyNDY5NTcwLC00ODc5NDYx
-MzAsLTI4MDgzOTEzOCwyMDcyMDM1NDQsLTYwNjEwNTk1NywtNT
-czMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbLTU4NDYyNzEzNCwxOTQ1MTg0NDYxLDE0MD
+A3OTkyMjQsMTgxMTMyNzA0LC0xMzI0Njk1NzAsLTQ4Nzk0NjEz
+MCwtMjgwODM5MTM4LDIwNzIwMzU0NCwtNjA2MTA1OTU3LC01Nz
+MxOTQ1MDNdfQ==
 -->
