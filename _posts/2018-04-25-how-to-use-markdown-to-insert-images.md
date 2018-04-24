@@ -19,12 +19,13 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
 
 ## 3.上传至网络相册
 类似于第一种方式。上传图片于网络相册，复制图片地址即可。第一种方式相当于把github当做一个网络相册来作为一个载体。
+在此，如果选择上传到网络相册，那么需要注意一下有的网络
 
 注:
-个人倾向于第1种方法和第3种方法。虽然方法笨拙，但是相比较之下是最稳妥之计。虽然需要几个步骤danshi链接不会失效并且
+个人倾向于第1种方法和第3种方法。虽然方法笨拙，但是相比较之下是最稳妥之计。虽然需要几个步骤但是链接不会失效而且不需要其他的一些技巧。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTY3NjM3MCwyMDcyMDM1NDQsLTYwNj
-EwNTk1NywtNTczMTk0NTAzXX0=
+eyJoaXN0b3J5IjpbLTIwMDk2NDAwODUsMjA3MjAzNTQ0LC02MD
+YxMDU5NTcsLTU3MzE5NDUwM119
 -->
