@@ -2,13 +2,13 @@
 ## Markdown 插入图片方法
 
  **1.将图片上传到github**<br>
-步骤如下:
+步骤如下:<br>
 a. 将markdown需要用的图片放到git仓库库中，发布到github上。
 b. 访问github上自己存放图片的Repo。
 c. 访问该图片并且点击download按钮,，在地址栏复制图片地址，或者在download按钮上直接右键“复制链接地址”。
 d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点巴拉巴拉巴拉点康姆)`
 
-**2.插入本地图片**
+**2.插入本地图片** <br>
 需要在基础语法的括号中插入图片的位置路径就可以，支持绝对路径和相对路径。
 例如:
 `![hello world] (/user/desktop/meme.jpeg)`
@@ -72,7 +72,7 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDYyNzEzNCwxOTQ1MTg0NDYxLDE0MD
+eyJoaXN0b3J5IjpbMTE5Mzk4NzQ0MiwxOTQ1MTg0NDYxLDE0MD
 A3OTkyMjQsMTgxMTMyNzA0LC0xMzI0Njk1NzAsLTQ4Nzk0NjEz
 MCwtMjgwODM5MTM4LDIwNzIwMzU0NCwtNjA2MTA1OTU3LC01Nz
 MxOTQ1MDNdfQ==
