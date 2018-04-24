@@ -27,9 +27,12 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
 ## markdown编辑器
 
 接下来说一下markdown language 编辑器吧
-网上主流的
+网上主流的markdown编辑器主要有这两种
+
+ - desktop 编辑器
+ - 在线编辑器
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzEwODY0NiwyMDcyMDM1NDQsLTYwNj
+eyJoaXN0b3J5IjpbLTI4MDgzOTEzOCwyMDcyMDM1NDQsLTYwNj
 EwNTk1NywtNTczMTk0NTAzXX0=
 -->
