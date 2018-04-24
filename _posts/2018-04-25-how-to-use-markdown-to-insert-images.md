@@ -3,10 +3,11 @@
 
  
 
-将markdown需要用的图片放到git repo中，发布到github上，类似于用github仓库当一个网上相册。
-
+****1. 将图片长传到github**
+步骤如下:
+a. 
  2.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MTk4NTI1LC01NzMxOTQ1MDNdfQ==
+eyJoaXN0b3J5IjpbMTM2MTI1NzU3MywtNTczMTk0NTAzXX0=
 -->
