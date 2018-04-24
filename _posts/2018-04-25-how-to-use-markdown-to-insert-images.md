@@ -61,7 +61,7 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 ![Markdown cheat sheet](https://github.com/supperac/ts/blob/master/screenshot-stackedit.io-2018.04.24-12-53-54.jpeg?raw=true)
 
 在搜索markdown编辑器的时候，我也找到了一个可以为经常使用evernote的人带来福音的markdown编辑器。<br>
-马克飞象是是一款专为印象笔记（Evernote）服务的markdown编辑器，可以配合印象笔记进行存储和同步笔记。
+马克飞象是一款专为印象笔记（Evernote）服务的markdown编辑器，可以配合印象笔记进行存储和同步笔记。
 
 功能亮点:
  - 支持高亮代码块、*LaTeX* 公式、流程图，本地图片以及附件上传，截图粘贴。
@@ -72,7 +72,7 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDgxOTU0MiwxOTQ1MTg0NDYxLDE0MD
+eyJoaXN0b3J5IjpbLTYyNjYxNDIyMywxOTQ1MTg0NDYxLDE0MD
 A3OTkyMjQsMTgxMTMyNzA0LC0xMzI0Njk1NzAsLTQ4Nzk0NjEz
 MCwtMjgwODM5MTM4LDIwNzIwMzU0NCwtNjA2MTA1OTU3LC01Nz
 MxOTQ1MDNdfQ==
