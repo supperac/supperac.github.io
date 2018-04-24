@@ -30,8 +30,10 @@ d. 在markdown文本中引用图片 `![hello world] (图片链接3达不溜点�
 markdown语言是一种简单高效率的文本编辑，使用起来其实是很方便，只需记得主要的集中方式即可，但是也有牛人开发了markdown 编辑器就使得编辑纯文本格式编写文档，然后转换成格式丰富的HTML页面的效率更高。网上主流的markdown编辑器主要有这两种, 一种是桌面编辑器，另一种是在线编辑器。在我的搜索经验看来，在线编辑器占大多数，并且功能也很强大。 
 现在我正在写这篇文章使用的是stackedit。
 
+整个界面是这个样子的
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ2OTU3MCwtNDg3OTQ2MTMwLC0yOD
-A4MzkxMzgsMjA3MjAzNTQ0LC02MDYxMDU5NTcsLTU3MzE5NDUw
-M119
+eyJoaXN0b3J5IjpbMTIxOTIwNDY0MywtMTMyNDY5NTcwLC00OD
+c5NDYxMzAsLTI4MDgzOTEzOCwyMDcyMDM1NDQsLTYwNjEwNTk1
+NywtNTczMTk0NTAzXX0=
 -->
