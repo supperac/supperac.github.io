@@ -33,9 +33,9 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 整个界面是这个样子的，很整洁干净。
 ![stackedit](https://raw.githubusercontent.com/supperac/ts/master/screenshot-stackedit.io-2018.04.24-12-42-39.jpeg)
 
-
+转了一圈stackedit之后发现
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzk4MzY3OCwxODExMzI3MDQsLTEzMj
+eyJoaXN0b3J5IjpbLTI3MjE0MDE1NiwxODExMzI3MDQsLTEzMj
 Q2OTU3MCwtNDg3OTQ2MTMwLC0yODA4MzkxMzgsMjA3MjAzNTQ0
 LC02MDYxMDU5NTcsLTU3MzE5NDUwM119
 -->
