@@ -13,10 +13,12 @@ d. 在markdown文本中引用图片 ![hello world] (图片链接3达不溜点巴
 例如:
 ![hello world] (/user/desktop/meme.jpeg)
 
-    其缺点是不灵活
+    其缺点是不灵活，本地图片路径更改或者丢失都会造成markdown文件读取不了图片。
+    
 
+# Heading
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMTk1OTIxLC01NzMxOTQ1MDNdfQ==
+eyJoaXN0b3J5IjpbLTM3MDMwMjA3NywtNTczMTk0NTAzXX0=
 -->
