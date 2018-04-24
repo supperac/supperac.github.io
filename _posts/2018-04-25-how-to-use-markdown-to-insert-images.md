@@ -62,15 +62,17 @@ markdown语言是一种简单高效率的文本编辑，使用起来其实是很
 
 在搜索markdown编辑器的时候，我也找到了一个可以为经常使用evernote的人带来福音的markdown编辑器。
 马克飞象是是一款专为印象笔记（Evernote）打造的Markdown编辑器，可以配合印象笔记进行存储和同步笔记。
+
 功能亮点:
-支持高亮代码块、*LaTeX* 公式、流程图，本地图片以及附件上传，甚至截图粘贴，工作学习好帮手； 
+ - 支持高亮代码块、*LaTeX* 公式、流程图，本地图片以及附件上传，截图粘贴。
  - 提供桌面客户端和离线Chrome App，支持移动端 Web。
  - 支持选择笔记本和添加标签，支持从印象笔记跳转编辑。
+ 
  详情请戳: https://maxiang.io/
-功能亮点:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjQxNTMzMiwxNDAwNzk5MjI0LDE4MT
+eyJoaXN0b3J5IjpbMTk0NTE4NDQ2MSwxNDAwNzk5MjI0LDE4MT
 EzMjcwNCwtMTMyNDY5NTcwLC00ODc5NDYxMzAsLTI4MDgzOTEz
 OCwyMDcyMDM1NDQsLTYwNjEwNTk1NywtNTczMTk0NTAzXX0=
 -->
