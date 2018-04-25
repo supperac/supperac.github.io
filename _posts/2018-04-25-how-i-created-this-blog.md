@@ -18,14 +18,15 @@
 	a. fork该repo到自己的仓库<br>
 	b. Ruby Gem<br>
 	c. Jekyll Remote Theme<br><br>
-我是用第一种方法克隆到自己的仓库的，步骤为下:<br>
+我是用第一种方法克隆到自己的仓库的，步骤为下:<br><br>
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
 点击菜单栏右边的settings会出现设置页面。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjg4Mjk3MSwtMjE0MTEyMzg4LC0yMT
-I3MjcwOTExLC0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MTgwMDg1
-NzAsODg1OTcwNTA4LDg4ODE4NDQxMSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxND
+ExMjM4OCwtMjEyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEy
+LC0xNzE4MDA4NTcwLDg4NTk3MDUwOCw4ODgxODQ0MTEsOTg3NT
+A0NDE0XX0=
 -->
