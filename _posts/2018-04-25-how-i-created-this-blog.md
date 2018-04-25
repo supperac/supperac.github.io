@@ -28,12 +28,13 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 
 ## 设置博客基本信息
 接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息、和安装后所需要做出更改的介绍。
+基本上要修改的有: <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTE5MjQzNCwxMzUxMzU1NjkzLC0xMz
-k2NzM4NzAzLC0xNzc0MTU5NzEyLDI5NzEzNDE2OCw0MjMwNDAy
-NDMsLTMwNjg4Mjk3MSwtMjE0MTEyMzg4LC0yMTI3MjcwOTExLC
-0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MTgwMDg1NzAsODg1OTcw
-NTA4LDg4ODE4NDQxMSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbNjc5NjYxNzQzLDE4MzUxOTI0MzQsMTM1MT
+M1NTY5MywtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQx
+NjgsNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMj
+EyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4
+NTcwLDg4NTk3MDUwOCw4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
 -->
