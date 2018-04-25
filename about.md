@@ -12,6 +12,11 @@ anyways, I will keep updating what I will accomplish or some notes or guides.
 and yeah...I need to read more english books, my enligsh writing has weakened.<br>
 加油~~~
 
+
+If you are interested in my topics or you want to correct me on something I includeed in my blog, Feel free to talk to me. There is no comment section on my blog, but you can reach me at tiantianlu91@hotmail.com<br>
+Linkedin: linkedin.com/in/tiantianlu
+
+
   |<br>
   |<br>
   |<br>
