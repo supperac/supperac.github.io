@@ -17,7 +17,7 @@
 2. 仔细阅读该主题repo的README.md, 里面有详细讲解如何设置并使用为自己github pages的主题。基本为以下三种方法。<br>
 	a. fork该repo到自己的仓库<br>
 	b. Ruby Gem<br>
-	c. Jekyll Remote Theme<br>
+	c. Jekyll Remote Theme<br><br>
 我是用第一种方法克隆到自己的仓库的，步骤为下:<br>
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
@@ -25,6 +25,6 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 点击Settings 会出现带你
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgwMDg1NzAsODg1OTcwNTA4LDg4OD
-E4NDQxMSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4NT
+k3MDUwOCw4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
 -->
