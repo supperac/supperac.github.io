@@ -27,14 +27,14 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现`error 404, the file can not be found` 也是同样的原因，只要等几分钟就会出来了。
 
 ## 设置博客基本信息
-接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息、和安装后所需要做出更改的介绍。
+接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息(每个模板的安装方法细节稍有不同，要根据README.md文件中Installlation的步骤来安装）、和安装后所需要做出更改的介绍。
 基本上要修改的有: <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NjYxNzQzLDE4MzUxOTI0MzQsMTM1MT
-M1NTY5MywtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQx
-NjgsNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMj
-EyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4
-NTcwLDg4NTk3MDUwOCw4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
+eyJoaXN0b3J5IjpbMTkxOTAzNjI5MywxODM1MTkyNDM0LDEzNT
+EzNTU2OTMsLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MTIsMjk3MTM0
+MTY4LDQyMzA0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLT
+IxMjcyNzA5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAw
+ODU3MCw4ODU5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
 -->
