@@ -34,7 +34,7 @@ b.  点击菜单栏右边的settings会出现设置页面。在Repository name �
 `title`改成你的博客名称<br>
 `description`是鼠标悬停在博客名称上时显示的名称<br>
 `author`是博主名字<br>
-还有其他一些设置就不一一列举了<br>
+还有其他一些设置就不一一列举了。<br>
 ## 创建博文
 在repo的根目录下找到_posts的文件夹，点击进入，在这里面创建你要写的博客文章。
 点击Create new file 创建新的文章。在`Name your file` 中写入文章的名称。格式按照`YYYY-MM-DD-Your-File-Name.md`。
@@ -48,11 +48,11 @@ b.  点击菜单栏右边的settings会出现设置页面。在Repository name �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODk0MDUyLC0xMjIwNTU5OTAsMzM1Nz
-g5NTI4LDYwOTcxNTE0NywtMTI0ODMwNjU2MSwtMTg1Mjc5NjM0
-NywxNTk3OTcyNTk4LDE1MTE1Nzk4NTMsLTEyNjQyNzU2NSwxOT
-E5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5MywtMTM5Njcz
-ODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIzMDQwMjQzLC
-0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMjEyNzI3MDkxMSwtMTQz
-Nzc4NzldfQ==
+eyJoaXN0b3J5IjpbMjAxMDg0NzU5NCwtMTIyMDU1OTkwLDMzNT
+c4OTUyOCw2MDk3MTUxNDcsLTEyNDgzMDY1NjEsLTE4NTI3OTYz
+NDcsMTU5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0Mjc1NjUsMT
+kxOTAzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OTMsLTEzOTY3
+Mzg3MDMsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMzA0MDI0My
+wtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0
+Mzc3ODc5XX0=
 -->
