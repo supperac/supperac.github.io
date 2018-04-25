@@ -22,10 +22,10 @@
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
-点击菜单栏右边的settings会出现设置页面。把仓库、
+点击菜单栏右边的settings会出现设置页面。把仓
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUwNTA3NzAsLTIxMjcyNzA5MTEsLT
-E0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1
-MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
+eyJoaXN0b3J5IjpbLTIxNDExMjM4OCwtMjEyNzI3MDkxMSwtMT
+QzNzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4NTk3MDUw
+OCw4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
 -->
