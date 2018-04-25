@@ -10,9 +10,9 @@
  1. github 账号
  2. 一个markdown编辑器(如果自己的md语言十分强硬，语言个事信手拈来，那么可以在githunb上直接编辑)
  
-
-# Heading
+## 设置步骤
+1. 打开Jakyll
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDQwOTMyNiw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbMTg3NzYzMDkzNSw5ODc1MDQ0MTRdfQ==
 -->
