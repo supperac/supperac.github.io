@@ -9,9 +9,9 @@
 要建立一个github pages博客，首先你需要:
 
  1. github 账号
- 2. 一个markdown编辑器(如果自己的md语言十分强硬，难么可以在githunb上直接编辑)
+ 2. 一个markdown编辑器(如果自己的md语言十分强硬，语言个事xinshouniannl那么可以在githunb上直接编辑)
  3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTA0NDE0XX0=
+eyJoaXN0b3J5IjpbLTU3NDQ2NzAwNSw5ODc1MDQ0MTRdfQ==
 -->
