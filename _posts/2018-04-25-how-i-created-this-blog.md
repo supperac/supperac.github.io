@@ -24,11 +24,12 @@
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
 点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名.github.io` 。
 例如我的: `supperac.github.io`。
-
+点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMz
-A0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5
-MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4OD
-U5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
+eyJoaXN0b3J5IjpbNDk2MTE4MTQ2LC0xNzc0MTU5NzEyLDI5Nz
+EzNDE2OCw0MjMwNDAyNDMsLTMwNjg4Mjk3MSwtMjE0MTEyMzg4
+LC0yMTI3MjcwOTExLC0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MT
+gwMDg1NzAsODg1OTcwNTA4LDg4ODE4NDQxMSw5ODc1MDQ0MTRd
+fQ==
 -->
