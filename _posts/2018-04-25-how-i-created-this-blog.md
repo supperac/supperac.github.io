@@ -40,11 +40,11 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 
 ## Markdown编辑器
 我用的是Stackedit，因为它可以和github账号连接并同步，在stackedit编辑好博文可以直接推送到github。
-但是有一点我观察到
+但是有一点我观察到在使用stackedit的时候，如果不用vpn它的auto sync功能受限，经常会显示sync not possible的现象，如果你也遇到这样的问题，changshi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMDc2MTcxLC0xMjQ4MzA2NTYxLC0xOD
+eyJoaXN0b3J5IjpbNTAwNjYyMTY0LC0xMjQ4MzA2NTYxLC0xOD
 UyNzk2MzQ3LDE1OTc5NzI1OTgsMTUxMTU3OTg1MywtMTI2NDI3
 NTY1LDE5MTkwMzYyOTMsMTgzNTE5MjQzNCwxMzUxMzU1NjkzLC
 0xMzk2NzM4NzAzLC0xNzc0MTU5NzEyLDI5NzEzNDE2OCw0MjMw
