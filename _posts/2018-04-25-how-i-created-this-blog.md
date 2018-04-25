@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 探索需时长，开博须谨慎
----
+title: 探索需时长，开博须需谨慎
+---author: Tiantian Lu
+
 刚刚开了博客，不为别的。除了以后找工作铺垫、展示自己，也希望以后回头能看看自己的心路历程，自己进步了多少。到那时技术更成熟的我回头观望技能尚青涩的我应该也是满满的欣慰吧。<br>
 刚开了博那就先说说我是怎么开始的，以此纪念一下。
 
@@ -62,4 +63,7 @@ Mzc3ODc5XX0=
 -->
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY5MDY2NzIxOV19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzg4NjgyMjk0XX0=
 -->
