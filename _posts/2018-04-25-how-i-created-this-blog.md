@@ -8,7 +8,7 @@
 ## 开始
 要建立一个github pages博客，首先你需要:<br>
  1. github 账号<br>
- 2. 一个markdown编辑器(如果自己的md语言十分强硬，语言个事信手拈来，那么可以在githunb上直接编辑)
+ 2. 一个markdown编辑器(如果自己的md语言十分强硬，语言格式信手拈来，那么可以在github上直接编辑)
  
 ## 设置步骤
 1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的主题。
@@ -27,8 +27,8 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MTM0MTY4LDQyMzA0MDI0MywtMzA2OD
-gyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3ODc5
-LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1MDgsODg4MT
-g0NDExLDk4NzUwNDQxNF19
+eyJoaXN0b3J5IjpbLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMz
+A0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5
+MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4OD
+U5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
 -->
