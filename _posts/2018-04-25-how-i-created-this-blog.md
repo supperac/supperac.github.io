@@ -11,9 +11,19 @@
  2. 一个markdown编辑器(如果自己的md语言十分强硬，语言个事信手拈来，那么可以在githunb上直接编辑)
  
 ## 设置步骤
-1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的主题，
-2. 
-
+1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的主题。
+![](https://github.com/supperac/ts/blob/master/screenshot-jekyllthemes.org-2018.04.25-01-59-27.jpeg?raw=true)
+点击demo出现预览，选择好后点击hompage来到github该主题页面。
+2. 仔细阅读该主题repo的README.md, 里面有详细讲解如何设置并使用为自己github pages的主题。基本为以下三种方法。
+	a. fork该repo到自己的仓库
+	b. Ruby Gem
+	c. Jekyll Remote Theme
+我是用第一种方法克隆到自己的仓库的，步骤为下:
+	a. 在页面右上方点击fork该主题克隆到自己的仓库
+	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)
+b.  
+![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MTg0NDExLDk4NzUwNDQxNF19
+eyJoaXN0b3J5IjpbMjc3MzU3NTExLDg4ODE4NDQxMSw5ODc1MD
+Q0MTRdfQ==
 -->
