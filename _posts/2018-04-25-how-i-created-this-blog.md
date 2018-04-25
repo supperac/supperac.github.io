@@ -32,18 +32,18 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 `title`改成你的博客名称
 `description`是鼠标悬停在博客名称上时显示的名称
 `author`是博主名字
-还有其他一些设置就不一一列举了
-## Heading
+还有其他一些设置就不一一列举了<br>
+## 编写博文
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI3OTYzNDcsMTU5Nzk3MjU5OCwxNT
-ExNTc5ODUzLC0xMjY0Mjc1NjUsMTkxOTAzNjI5MywxODM1MTky
-NDM0LDEzNTEzNTU2OTMsLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MT
-IsMjk3MTM0MTY4LDQyMzA0MDI0MywtMzA2ODgyOTcxLC0yMTQx
-MTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMi
-wtMTcxODAwODU3MCw4ODU5NzA1MDgsODg4MTg0NDExLDk4NzUw
-NDQxNF19
+eyJoaXN0b3J5IjpbLTEyNDgzMDY1NjEsLTE4NTI3OTYzNDcsMT
+U5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0Mjc1NjUsMTkxOTAz
+NjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OTMsLTEzOTY3Mzg3MD
+MsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMzA0MDI0MywtMzA2
+ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3OD
+c5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1MDgsODg4
+MTg0NDExXX0=
 -->
