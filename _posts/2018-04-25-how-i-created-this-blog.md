@@ -13,7 +13,8 @@
 ## 设置步骤
 1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的主题。
 ![](https://github.com/supperac/ts/blob/master/screenshot-jekyllthemes.org-2018.04.25-01-59-27.jpeg?raw=true)<br>
-点击demo出现预览，选择好后点击hompage来到github该主题页面。<br>
+点击demo出现预览，选择好后点击hompage来到github该主题页面。
+<br>
 2. 仔细阅读该主题repo的README.md, 里面有详细讲解如何设置并使用为自己github pages的主题。基本为以下三种方法。<br>
 	a. fork该repo到自己的仓库<br>
 	b. Ruby Gem<br>
@@ -21,10 +22,11 @@
 我是用第一种方法克隆到自己的仓库的，步骤为下:<br><br>
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
-b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
-点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名.github.io` 。
+b.  点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名.github.io` 。
 例如我的: `supperac.github.io`。
-点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现`error 404, the file can not be found` 也是同样的原因，只要等几分钟就会出来了。
+点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现`error 404, the file can not be found` 也是同样的原因，只要等几分钟就会出来了。
+![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
+
 
 ## 设置博客基本信息
 接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息(每个模板的安装方法细节稍有不同，要根据README.md文件中Installation的步骤来安装）、和安装后所需要做出更改的介绍。
@@ -46,11 +48,11 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NzE1MTQ3LC0xMjQ4MzA2NTYxLC0xOD
-UyNzk2MzQ3LDE1OTc5NzI1OTgsMTUxMTU3OTg1MywtMTI2NDI3
-NTY1LDE5MTkwMzYyOTMsMTgzNTE5MjQzNCwxMzUxMzU1NjkzLC
-0xMzk2NzM4NzAzLC0xNzc0MTU5NzEyLDI5NzEzNDE2OCw0MjMw
-NDAyNDMsLTMwNjg4Mjk3MSwtMjE0MTEyMzg4LC0yMTI3MjcwOT
-ExLC0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MTgwMDg1NzAsODg1
-OTcwNTA4XX0=
+eyJoaXN0b3J5IjpbMzM1Nzg5NTI4LDYwOTcxNTE0NywtMTI0OD
+MwNjU2MSwtMTg1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4
+NTMsLTEyNjQyNzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMT
+M1MTM1NTY5MywtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcx
+MzQxNjgsNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OC
+wtMjEyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4
+MDA4NTcwXX0=
 -->
