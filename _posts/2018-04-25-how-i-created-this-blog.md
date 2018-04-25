@@ -30,16 +30,17 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息(每个模板的安装方法细节稍有不同，要根据README.md文件中Installation的步骤来安装）、和安装后所需要做出更改的介绍。
 基本信息储存在repo根目录下`_config.yml` 文件里。<br>
 `title`改成你的博客名称
+`description`是鼠标xuantingzai
 `author`是博主名字
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY1NDQ0OTAsMTUxMTU3OTg1MywtMT
-I2NDI3NTY1LDE5MTkwMzYyOTMsMTgzNTE5MjQzNCwxMzUxMzU1
-NjkzLC0xMzk2NzM4NzAzLC0xNzc0MTU5NzEyLDI5NzEzNDE2OC
-w0MjMwNDAyNDMsLTMwNjg4Mjk3MSwtMjE0MTEyMzg4LC0yMTI3
-MjcwOTExLC0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MTgwMDg1Nz
-AsODg1OTcwNTA4LDg4ODE4NDQxMSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbMTI2NDA1MzMyNiwxNTExNTc5ODUzLC0xMj
+Y0Mjc1NjUsMTkxOTAzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2
+OTMsLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LD
+QyMzA0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcy
+NzA5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MC
+w4ODU5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
 -->
