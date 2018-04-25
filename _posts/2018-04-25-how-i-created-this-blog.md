@@ -33,16 +33,17 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 `description`是鼠标悬停在博客名称上时显示的名称
 `author`是博主名字
 还有其他一些设置就不一一列举了<br>
-## 编写博文
+## 创建博文
 在repo的根目录下找到_posts的文件夹，点击进入，在这里面创建你要写的博客文章。
 点击Create new file 创建新的文章。在`Name your file` 中写入文章的名称。格式按照`YYYY-MM-DD-Your-File-Name.md`。
 这样就可以开始你的博客旅程了。
 
-## m
+## Markdown编辑器
+我用的是Stackedit，因为它可以和github同步，
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODk0NTE0NCwtMTI0ODMwNjU2MSwtMT
+eyJoaXN0b3J5IjpbMTIyODc5NTQyOCwtMTI0ODMwNjU2MSwtMT
 g1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4NTMsLTEyNjQy
 NzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5My
 wtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIz
