@@ -42,15 +42,15 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 我用的是Stackedit，因为它可以和github账号连接并同步，在stackedit编辑好博文可以直接推送到github。
 但是有一点我观察到在使用stackedit的时候，如果不用vpn它的auto sync功能受限，经常会显示sync not possible的现象，如果你也遇到这样的问题，尝试连接vpn解决这一问题。
 
-这就是
+这就是我探索的开播方法，看似简单，我用了将近2-3个小时，不要笑，这就是自学的过程。哈哈哈哈
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzM0MDQwMiwtMTI0ODMwNjU2MSwtMT
-g1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4NTMsLTEyNjQy
-NzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5My
-wtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIz
-MDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMjEyNzI3MD
-kxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4
-NTk3MDUwOF19
+eyJoaXN0b3J5IjpbNjA5NzE1MTQ3LC0xMjQ4MzA2NTYxLC0xOD
+UyNzk2MzQ3LDE1OTc5NzI1OTgsMTUxMTU3OTg1MywtMTI2NDI3
+NTY1LDE5MTkwMzYyOTMsMTgzNTE5MjQzNCwxMzUxMzU1NjkzLC
+0xMzk2NzM4NzAzLC0xNzc0MTU5NzEyLDI5NzEzNDE2OCw0MjMw
+NDAyNDMsLTMwNjg4Mjk3MSwtMjE0MTEyMzg4LC0yMTI3MjcwOT
+ExLC0xNDM3Nzg3OSw3NjY0MzU1MTIsLTE3MTgwMDg1NzAsODg1
+OTcwNTA4XX0=
 -->
