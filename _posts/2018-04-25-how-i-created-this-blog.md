@@ -11,9 +11,9 @@
  2. 一个markdown编辑器(如果自己的md语言十分强硬，语言个事信手拈来，那么可以在githunb上直接编辑)
  
 ## 设置步骤
-1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的zhu
+1. 打开[Jekyll Themes](http://jekyllthemes.org/), 选择你喜欢的主题，
 2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NTM1MzQ3LDk4NzUwNDQxNF19
+eyJoaXN0b3J5IjpbODg4MTg0NDExLDk4NzUwNDQxNF19
 -->
