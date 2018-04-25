@@ -27,10 +27,12 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现`error 404, the file can not be found` 也是同样的原因，只要等几分钟就会出来了。
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMDU0MjY1LC0xMzk2NzM4NzAzLC0xNz
-c0MTU5NzEyLDI5NzEzNDE2OCw0MjMwNDAyNDMsLTMwNjg4Mjk3
-MSwtMjE0MTEyMzg4LC0yMTI3MjcwOTExLC0xNDM3Nzg3OSw3Nj
-Y0MzU1MTIsLTE3MTgwMDg1NzAsODg1OTcwNTA4LDg4ODE4NDQx
-MSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQ0OTk4ODMsLTEzOTY3Mzg3MDMsLT
+E3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMzA0MDI0MywtMzA2ODgy
+OTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3ODc5LD
+c2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1MDgsODg4MTg0
+NDExLDk4NzUwNDQxNF19
 -->
