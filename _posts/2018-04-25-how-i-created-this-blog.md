@@ -31,9 +31,9 @@ b.  点击菜单栏右边的settings会出现设置页面。在Repository name �
 ## 设置博客基本信息
 接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息(每个模板的安装方法细节稍有不同，要根据README.md文件中Installation的步骤来安装）、和安装后所需要做出更改的介绍。
 基本信息储存在repo根目录下`_config.yml` 文件里。<br>
-`title`改成你的博客名称
-`description`是鼠标悬停在博客名称上时显示的名称
-`author`是博主名字
+`title`改成你的博客名称<br>
+`description`是鼠标悬停在博客名称上时显示的名称<br>
+`author`是博主名字<br>
 还有其他一些设置就不一一列举了<br>
 ## 创建博文
 在repo的根目录下找到_posts的文件夹，点击进入，在这里面创建你要写的博客文章。
@@ -48,11 +48,11 @@ b.  点击菜单栏右边的settings会出现设置页面。在Repository name �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1Nzg5NTI4LDYwOTcxNTE0NywtMTI0OD
-MwNjU2MSwtMTg1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4
-NTMsLTEyNjQyNzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMT
-M1MTM1NTY5MywtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcx
-MzQxNjgsNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OC
-wtMjEyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4
-MDA4NTcwXX0=
+eyJoaXN0b3J5IjpbLTEyMjA1NTk5MCwzMzU3ODk1MjgsNjA5Nz
+E1MTQ3LC0xMjQ4MzA2NTYxLC0xODUyNzk2MzQ3LDE1OTc5NzI1
+OTgsMTUxMTU3OTg1MywtMTI2NDI3NTY1LDE5MTkwMzYyOTMsMT
+gzNTE5MjQzNCwxMzUxMzU1NjkzLC0xMzk2NzM4NzAzLC0xNzc0
+MTU5NzEyLDI5NzEzNDE2OCw0MjMwNDAyNDMsLTMwNjg4Mjk3MS
+wtMjE0MTEyMzg4LC0yMTI3MjcwOTExLC0xNDM3Nzg3OSw3NjY0
+MzU1MTJdfQ==
 -->
