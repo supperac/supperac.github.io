@@ -22,9 +22,10 @@
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
-点击Settings 会出现带你
+点击菜单栏右边的settings会出现设置页面
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4NT
-k3MDUwOCw4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
+eyJoaXN0b3J5IjpbLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxOD
+AwODU3MCw4ODU5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQxNF19
+
 -->
