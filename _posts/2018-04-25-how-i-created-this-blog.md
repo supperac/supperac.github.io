@@ -24,12 +24,12 @@
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
 点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名.github.io` 。
 例如我的: `supperac.github.io`。
-点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现error 404, the file can not be found 也是同样的原因，只要等几分钟就会出来了。这是我在xie
+点击Rename你的博客的地址就修改完成了。如果你立即大概你的博客页面，可能会看到error 404的情况，不要着急，github pages更新需要时间，在github上的更新有时候需要最多15-20分钟的间隔才会才会在博客上看到。如果你写了一篇新的帖子，在博客里点进去这个帖子出现error 404, the file can not be found 也是同样的原因，只要等几分钟就会出来了。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDU2ODAwOCwtMTc3NDE1OTcxMiwyOT
-cxMzQxNjgsNDIzMDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4
-OCwtMjEyNzI3MDkxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNz
-E4MDA4NTcwLDg4NTk3MDUwOCw4ODgxODQ0MTEsOTg3NTA0NDE0
-XX0=
+eyJoaXN0b3J5IjpbLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MTIsMj
+k3MTM0MTY4LDQyMzA0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIz
+ODgsLTIxMjcyNzA5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMT
+cxODAwODU3MCw4ODU5NzA1MDgsODg4MTg0NDExLDk4NzUwNDQx
+NF19
 -->
