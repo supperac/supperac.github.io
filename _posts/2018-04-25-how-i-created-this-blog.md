@@ -22,8 +22,7 @@
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)
 b.  
-![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MzU3NTExLDg4ODE4NDQxMSw5ODc1MD
-Q0MTRdfQ==
+eyJoaXN0b3J5IjpbLTEzODQyNDk5NDMsODg4MTg0NDExLDk4Nz
+UwNDQxNF19
 -->
