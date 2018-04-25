@@ -22,11 +22,11 @@
 	a. 在页面右上方点击fork该主题克隆到自己的仓库
 	![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-19-10.jpeg?raw=true)<br>
 b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04.25-02-24-22.jpeg?raw=true)
-点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名`
+点击菜单栏右边的settings会出现设置页面。在Repository name 里写上`用户名.github.io` 。例如我的: `supperac.github.io`。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjA1ODk5MSw0MjMwNDAyNDMsLTMwNj
-g4Mjk3MSwtMjE0MTEyMzg4LC0yMTI3MjcwOTExLC0xNDM3Nzg3
-OSw3NjY0MzU1MTIsLTE3MTgwMDg1NzAsODg1OTcwNTA4LDg4OD
-E4NDQxMSw5ODc1MDQ0MTRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTE2OTg2NjQsNDIzMDQwMjQzLC0zMD
+Y4ODI5NzEsLTIxNDExMjM4OCwtMjEyNzI3MDkxMSwtMTQzNzc4
+NzksNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4NTk3MDUwOCw4OD
+gxODQ0MTEsOTg3NTA0NDE0XX0=
 -->
