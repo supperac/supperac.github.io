@@ -34,16 +34,17 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 `author`是博主名字
 还有其他一些设置就不一一列举了<br>
 ## 编写博文
-按照下图创建博文文件，在`Name your file...`处填入`_posts/YYYY-MM-DD-Your-Document-Name.md`，比如我这篇文章`_posts/2018-01-05-Create-a-Blog-in-15-Minutes.md`
+在repo的根目录下找到_posts的文件夹，点击进入，在这里面创建你要写的博客文章。
+点击Create file在`Name your file...`处填入`_posts/YYYY-MM-DD-Your-Document-Name.md`，比如我这篇文章`_posts/2018-01-05-Create-a-Blog-in-15-Minutes.md`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1NTI3MTEsLTEyNDgzMDY1NjEsLT
-E4NTI3OTYzNDcsMTU5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0
-Mjc1NjUsMTkxOTAzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OT
-MsLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQy
-MzA0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNz
-A5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4
-ODU5NzA1MDhdfQ==
+eyJoaXN0b3J5IjpbMTk1NDg0MTYyOSwtMTI0ODMwNjU2MSwtMT
+g1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4NTMsLTEyNjQy
+NzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5My
+wtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIz
+MDQwMjQzLC0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMjEyNzI3MD
+kxMSwtMTQzNzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4
+NTk3MDUwOF19
 -->
