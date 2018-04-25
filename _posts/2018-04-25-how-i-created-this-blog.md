@@ -34,16 +34,16 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 `author`是博主名字
 还有其他一些设置就不一一列举了<br>
 ## 编写博文
-
+按照下图创建博文文件，在`Name your file...`处填入`_posts/YYYY-MM-DD-Your-Document-Name.md`，比如我这篇文章`_posts/2018-01-05-Create-a-Blog-in-15-Minutes.md`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgzMDY1NjEsLTE4NTI3OTYzNDcsMT
-U5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0Mjc1NjUsMTkxOTAz
-NjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OTMsLTEzOTY3Mzg3MD
-MsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMzA0MDI0MywtMzA2
-ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3OD
-c5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1MDgsODg4
-MTg0NDExXX0=
+eyJoaXN0b3J5IjpbLTE5MjI1NTI3MTEsLTEyNDgzMDY1NjEsLT
+E4NTI3OTYzNDcsMTU5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0
+Mjc1NjUsMTkxOTAzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OT
+MsLTEzOTY3Mzg3MDMsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQy
+MzA0MDI0MywtMzA2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNz
+A5MTEsLTE0Mzc3ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4
+ODU5NzA1MDhdfQ==
 -->
