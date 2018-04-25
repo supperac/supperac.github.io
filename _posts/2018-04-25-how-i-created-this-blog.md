@@ -28,14 +28,15 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 
 ## 设置博客基本信息
 接下来到这个模板的repo里找到README.md文件。里面有具体的模板特点介绍、安装信息(每个模板的安装方法细节稍有不同，要根据README.md文件中Installation的步骤来安装）、和安装后所需要做出更改的介绍。
-基本信息储存在repo根目录下_config.yml 文件里
+基本信息储存在repo根目录下`_config.yml` 文件里。
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkyNDgzOTksLTEyNjQyNzU2NSwxOT
-E5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5MywtMTM5Njcz
-ODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIzMDQwMjQzLC
-0zMDY4ODI5NzEsLTIxNDExMjM4OCwtMjEyNzI3MDkxMSwtMTQz
-Nzc4NzksNzY2NDM1NTEyLC0xNzE4MDA4NTcwLDg4NTk3MDUwOC
-w4ODgxODQ0MTEsOTg3NTA0NDE0XX0=
+eyJoaXN0b3J5IjpbNzQwMzIzMTIxLC0xMjY0Mjc1NjUsMTkxOT
+AzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OTMsLTEzOTY3Mzg3
+MDMsLTE3NzQxNTk3MTIsMjk3MTM0MTY4LDQyMzA0MDI0MywtMz
+A2ODgyOTcxLC0yMTQxMTIzODgsLTIxMjcyNzA5MTEsLTE0Mzc3
+ODc5LDc2NjQzNTUxMiwtMTcxODAwODU3MCw4ODU5NzA1MDgsOD
+g4MTg0NDExLDk4NzUwNDQxNF19
 -->
