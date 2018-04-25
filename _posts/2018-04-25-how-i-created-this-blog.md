@@ -44,11 +44,11 @@ b.  点击菜单栏右边的settings会出现设置页面。在Repository name �
 我用的是Stackedit，因为它可以和github账号连接并同步，在stackedit编辑好博文可以直接推送到github。
 但是有一点我观察到在使用stackedit的时候，如果不用vpn它的auto sync功能受限，经常会显示sync not possible的现象，如果你也遇到这样的问题，尝试连接vpn解决这一问题。
 
-这就是我探索的开播方法，看似简单，我用了将近2-3个小时，不要笑，这就是自学的过程。哈哈哈哈
+这就是我探索的开博方法，看似简单，我用了将近2-3个小时，不要笑，这就是自学的过程。哈哈哈哈
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDg0NzU5NCwtMTIyMDU1OTkwLDMzNT
+eyJoaXN0b3J5IjpbLTEyNTExNDUzNywtMTIyMDU1OTkwLDMzNT
 c4OTUyOCw2MDk3MTUxNDcsLTEyNDgzMDY1NjEsLTE4NTI3OTYz
 NDcsMTU5Nzk3MjU5OCwxNTExNTc5ODUzLC0xMjY0Mjc1NjUsMT
 kxOTAzNjI5MywxODM1MTkyNDM0LDEzNTEzNTU2OTMsLTEzOTY3
