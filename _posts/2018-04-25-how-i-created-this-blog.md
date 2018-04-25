@@ -35,12 +35,12 @@ b.  ![](https://github.com/supperac/ts/blob/master/screenshot-github.com-2018.04
 还有其他一些设置就不一一列举了<br>
 ## 编写博文
 在repo的根目录下找到_posts的文件夹，点击进入，在这里面创建你要写的博客文章。
-点击Create file在`Name your file...`处填入`_posts/YYYY-MM-DD-Your-Document-Name.md`，比如我这篇文章`_posts/2018-01-05-Create-a-Blog-in-15-Minutes.md`
+点击Create new file 创建新的文章。在Name your file 中写入文章的名称。格式按照YYYY-MM-DD-在`Name your file...`处填入`_posts/YYYY-MM-DD-Your-Document-Name.md`，比如我这篇文章`_posts/2018-01-05-Create-a-Blog-in-15-Minutes.md`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDg0MTYyOSwtMTI0ODMwNjU2MSwtMT
+eyJoaXN0b3J5IjpbMTEwNjQ0NDY5MiwtMTI0ODMwNjU2MSwtMT
 g1Mjc5NjM0NywxNTk3OTcyNTk4LDE1MTE1Nzk4NTMsLTEyNjQy
 NzU2NSwxOTE5MDM2MjkzLDE4MzUxOTI0MzQsMTM1MTM1NTY5My
 wtMTM5NjczODcwMywtMTc3NDE1OTcxMiwyOTcxMzQxNjgsNDIz
