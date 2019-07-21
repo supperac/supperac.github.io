@@ -17,11 +17,7 @@ If you are interested in my topics or you want to correct me on something I talk
 or my [Linkedin](https://www.linkedin.com/in/tiantianlu/)
 
 
-  |<br>
-  |<br>
-  |<br>
- \ /
- this is the template creator, many thanks to him.
+This is the template creator, many thanks to him.
 
 Contribute<br>
 Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
